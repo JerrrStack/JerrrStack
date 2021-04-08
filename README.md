@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JerrrStack
+- 👋 Hi, I’m @JerrrStack a Fresh Graduate
 - 👀 I’m interested in MERN Stack
 
 <!---
