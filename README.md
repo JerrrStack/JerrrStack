@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JerrrStack a Fresh Graduate
+- 👋 Hi, I’m Jerome a Fresh Graduate
 - 👀 I’m interested in Web development
 - My Web Portfolio: https://jer-portfolio.herokuapp.com
 
