@@ -14,8 +14,8 @@
 - 💼 Currently a **Software Engineer at YNS Philippines Inc.**, leading sprint execution and owning multiple production projects
 - 🛠️ Comfortable across the full stack — from requirements analysis and technical specs to production deployment and server maintenance
 - 🌐 Domain experience in **e-commerce, restaurant reservations, online pharmacy, business & labor matching, payments, logistics, and dispatch management**
-- 📍 Based in Silang, Cavite, Philippines
-- 📫 Reach me at **johnjeromebernal@gmail.com** or **(+63) 939 732 8337**
+- 📍 Based in Philippines
+- 📫 Reach me at **johnjeromebernal@gmail.com**
 
 ---
 
@@ -88,25 +88,7 @@
 - Resolved defects and maintained existing applications
 - Contributed to upgrading a legacy CakePHP application to its latest supported version
 
-📄 [View full resume / portfolio](https://jer-portfolio.herokuapp.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JerrrStack&show_icons=true&theme=default&count_private=true" alt="Jerome's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerrrStack" alt="Jerome's GitHub streak" />
-</p>
-
----
-
-### 🎓 Education
-
-**Bachelor of Science in Information Technology**
-Far Eastern University – Cavite, 2017 – 2020
+📄 [View full resume / portfolio](https://portfolio-v3-juv9.vercel.app/)
 
 ---
 
