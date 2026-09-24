@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Web Developer</h3>
 
 <p align="center">
-  <a href="https://jer-portfolio.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jer--portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://portfolio-v3-juv9.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jer--portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:johnjeromebernal@gmail.com"><img src="https://img.shields.io/badge/Email-johnjeromebernal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
